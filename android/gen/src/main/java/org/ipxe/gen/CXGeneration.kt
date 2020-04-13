@@ -1,4 +1,4 @@
-package org.ipxe.cx.gen
+package org.ipxe.gen
 
 import org.spongycastle.crypto.engines.AESEngine
 import org.spongycastle.crypto.prng.EntropySource
